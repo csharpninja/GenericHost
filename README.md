@@ -1,0 +1,1 @@
+This project demonstrates how to use the .NET Generic Host in a console application to configure application settings, integrate Serilog for structured logging, and register and resolve dependencies using dependency injection.
